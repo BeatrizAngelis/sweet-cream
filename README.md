@@ -6,7 +6,7 @@
 
 
 ## Abaixo algumas imagens e gifs sobre o projeto
-![preview](./preview video.gif)
+![preview](./video.gif)
 
 ## 🛠 Tecnologias utilizadas
 - HTML
